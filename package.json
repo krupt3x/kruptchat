@@ -1,0 +1,26 @@
+{
+  "name": "kruptchat",
+  "version": "1.0.0",
+  "description": "secure chat app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krupt3x/kruptchat.git"
+  },
+  "keywords": [
+    "kruptchat",
+    "secure-chat"
+  ],
+  "author": "krupt3x",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krupt3x/kruptchat/issues"
+  },
+  "homepage": "https://github.com/krupt3x/kruptchat#readme",
+  "devDependencies": {
+    "electron": "^31.3.1"
+  }
+}
